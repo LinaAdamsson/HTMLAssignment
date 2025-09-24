@@ -1,3 +1,3 @@
 # HTMLAssignment
 
-Just write something
+Just write something else
